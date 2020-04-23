@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-April 22 2020
+April 22, 2020
 
 # Privacy Policy
 Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.

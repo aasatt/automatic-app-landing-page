@@ -7,7 +7,7 @@ include_in_header: true
 # Version History
 
 ## Version 2.0
-`April 20, 2020`
+`Apr 20, 2020`
 After 4 years of being one of the best app for Live Photos, Live Studio has been completely rewritten from the ground up.
 This update brings a much needed refresh to the interface, performance improvements and an all around better experience for you.
 
@@ -39,7 +39,9 @@ Bigger update for users of the Chinese language as Live Studio is now localized 
 `Jun 7, 2018`
 Fixed a bug where audio was not included in created Live Photos
 Now properly handles edits like Loop and Bounce when creating a video or gifs from a Live Photo
-1.8.1Nov 7, 2017
+
+## 1.8.1
+`Nov 7, 2017`
 - Support for iPhone X
 - Added message when the app cannot access photos
 - Included a new alternate home screen icon (access via Settings in app)
@@ -62,7 +64,9 @@ Minor updates for new iOS 10.3 APIs
 Fixed small bug with how trial state is obtained
 Added a Live Photo converter app extension
 Better crash reporting for me so I can continue to improve Live Studio for you
-1.5Mar 29, 2017
+
+## 1.5
+`Mar 29, 2017`
 Updated payment model. Existing users will continue to use Live Studio free of charge for life.
 
 Improved stability, on latest iOS versions.
@@ -85,7 +89,7 @@ Fixed issue for some users when turning a burst into a Live Photo
 Other bug fixes
 
 ## Version 1.2.1
-Jan 25, 2016
+`Jan 25, 2016`
 Temporary fix for users experiencing crashing with iCloud Photo Library.
 When converting GIFs to Live Photos, the Live Photo should now play at the GIFs original speed.
 Removed snow theme.
@@ -101,10 +105,10 @@ Added the ability to convert multiple Live Photos to Videos at a time. (Try a fi
 Now, you can select the exact frame that you want to be the image of the Live Photo.
 
 Other features:
--shows only your Live Photos when selecting them
--added icons to indicate Live Photos across the app
--improvements with 3D touch (see 'Pro Tip:' in app)
--further stability improvements.
+- shows only your Live Photos when selecting them
+- added icons to indicate Live Photos across the app
+- improvements with 3D touch (see 'Pro Tip:' in app)
+- further stability improvements.
 
 
 ## Version 1.1.1
