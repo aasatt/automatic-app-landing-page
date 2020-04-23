@@ -10,7 +10,7 @@ presskit_download_link                    : # https://emilbaehr.com             
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Live Studio                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : The ultimate app for Live Photos
 
@@ -65,11 +65,11 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#45a84f"
 feature_text_color                        : "#e6e6e6"
 
-feature_icons_foreground_color            : "#45a84f"
+feature_icons_foreground_color            : "#e6e6e6"
 feature_icons_background_color            : "#666666"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#e6e6e6"
+social_icons_background_color             : "#666666"
 
 footer_text_color                         : "#e6e6e6"
 
