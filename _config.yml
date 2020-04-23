@@ -34,6 +34,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+- title                                 : Create Custom Live Photos
+  description                           : Create a Live Photo from any video, GIF or photo burst
+  fontawesome_icon_name                 : magic
+
+- title                                 : Convert Existing Live Photos
+  description                           : Convert your Live Photos to video or GIF. This is great for sharing your animated Live Photos on the web.
+  fontawesome_icon_name                 : expand-arrows-alt
+
+
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
@@ -53,8 +62,8 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#45a84f"
+feature_text_color                        : "#e6e6e6"
 
 feature_icons_foreground_color            : "#1d63ea"
 feature_icons_background_color            : "#e6e6e6"
