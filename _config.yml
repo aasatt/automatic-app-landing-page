@@ -42,6 +42,10 @@ features                                  :
   description                           : Convert your Live Photos to video or GIF. This is great for sharing your animated Live Photos on the web.
   fontawesome_icon_name                 : expand-arrows-alt
 
+- title                                 : All New in 2020
+  description                           : Originally released in 2015, Live Studio has been completely rewritten from the ground up with a brand new interface, better performance and new features.
+  fontawesome_icon_name                 : air-freshener
+
 
 # Theme Settings
 topbar_color                              : "#000000"
